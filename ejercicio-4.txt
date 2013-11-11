@@ -1,0 +1,2 @@
+No se puede implementar: 
+Cada canción sólo puede aparecer en un álbum.

@@ -1,0 +1,3 @@
+No se puede expresar la restricción de que a cada avión sólo le pueda realizar una prueba un técnico que sea experto en ese modelo de avión.
+
+
